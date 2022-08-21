@@ -31,3 +31,7 @@ This settings uses `~/.config/rofi/bin/powermenu`.
 ; Change to your launcher script.
 click-left = ~/.config/rofi/bin/powermenu &
 ```
+
+## Author
+
+[Hiroya-W](https://github.com/Hiroya-W)
