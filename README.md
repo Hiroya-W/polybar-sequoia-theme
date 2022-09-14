@@ -8,6 +8,27 @@ Sequoia theme for polybar
 **Bottom bar**
 ![bottom-bar](https://user-images.githubusercontent.com/43127622/180820536-660883d3-aab5-4c56-bfc7-4b8a8fccee03.png)
 
+## Dependencies
+
+This theme uses the following fonts.
+
+- HackGen (with Nerd Font)
+- Iosevka Nerd Font
+
+### How to install fonts on Arch Linux
+
+Install HackGen
+
+```bash
+yay -S ttf-hackgen
+```
+
+Install Iosevka Nerd Font
+
+```bash
+sudo pacman -S ttf-iosevka-nerd
+```
+
 ## User settings
 
 ### [module/launcher]
